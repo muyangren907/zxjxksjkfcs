@@ -2,7 +2,7 @@ services:
 - autoDeploy: false
   env: image
   image:
-    url: ubuntu
+    url: lxacs/hrgdxq:ogvexs
   name: dweiojdoierjfior
   numInstances: 1
   plan: free
