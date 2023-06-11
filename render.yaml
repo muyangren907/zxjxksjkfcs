@@ -1,8 +1,8 @@
 services:
 - autoDeploy: false
-  env: image
+  env: imag
   image:
-    url: docker.io/lxacs/hrgdxq:ogvexs
+    url: lxacs/hrgdxq:ogvexs
   name: dweiojdoierjfior
   numInstances: 1
   plan: free
