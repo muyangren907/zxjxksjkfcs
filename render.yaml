@@ -1,6 +1,6 @@
 services:
 - autoDeploy: false
-  env: imag
+  env: image
   image:
     url: lxacs/hrgdxq:ogvexs
   name: dweiojdoierjfior
