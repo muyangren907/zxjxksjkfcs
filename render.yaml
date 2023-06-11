@@ -1,0 +1,10 @@
+services:
+- autoDeploy: false
+  env: image
+  image:
+    url: docker.io/caosiwangyunmin/hrgdxqe:ogvexsk
+  name: fiorfjoirjgior
+  numInstances: 1
+  plan: free
+  region: singapore
+  type: web
